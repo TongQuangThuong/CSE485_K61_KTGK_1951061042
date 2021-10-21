@@ -1,0 +1,33 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+#warper ul {
+    list-style: none;
+}
+
+#warper a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0px auto;
+    max-width: 960px;
+}
+.banner{
+    background-color: yellowgreen ;
+}
+
+body {
+  
+    background-color:#fff !important;
+    color:black;
+}
+
+
+
+
+
+
